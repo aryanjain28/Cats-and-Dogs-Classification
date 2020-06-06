@@ -8,6 +8,6 @@
   
 # Screenshots
 
-  <p align="center"><img width="460" src="/Screenshots/Screenshot2.png"></p>
+  <p align="center"><img width="460" src="/Screenshots/Screenshot2.PNG"></p>
         
-  <p align="center"><img width="460" src="/Screenshots/Screenshot1.png"></p>
+  <p align="center"><img width="460" src="/Screenshots/Screenshot1.PNG"></p>
