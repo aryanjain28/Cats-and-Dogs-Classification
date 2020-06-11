@@ -6,7 +6,7 @@
    1. Tkinter for GUI.
    2. Keras for Deep Learning.
   
-# Screenshots
+# Screenshots :
 
   <p align="center"><img width="460" src="/Screenshots/Screenshot2.PNG"></p>
         
